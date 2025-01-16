@@ -12,10 +12,12 @@ Home
 Welcome message (“Company Portfolio)
 
 Description of Company
+
 	
 About
 
 Other brief info of the company
+
 
 Projects
 
@@ -24,6 +26,7 @@ Project title
 Short description
 
 Link to a demo or code repository
+
 
 Contact
 
