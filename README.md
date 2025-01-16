@@ -7,19 +7,19 @@ Tech: HTML, CSS, JS
 
 Requirements: 
 
-Home 
+HOME
 
 Welcome message (“Company Portfolio)
 
 Description of Company
 
 	
-About
+ABOUT
 
 Other brief info of the company
 
 
-Projects
+PROJECTS
 
 Project title
 
@@ -28,7 +28,7 @@ Short description
 Link to a demo or code repository
 
 
-Contact
+CONTACT
 
 Contact form with fields
 
